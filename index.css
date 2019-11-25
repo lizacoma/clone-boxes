@@ -1,0 +1,11 @@
+body {
+  max-width: 100wv;
+  max-height: 100vh;
+}
+
+div {
+  position: fixed;
+  width: 100px;
+  height: 100px;
+  background: lightcoral;
+}
